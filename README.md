@@ -9,14 +9,13 @@
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edinssonmelo/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Mackenzie)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mackenzie-98)
 
 
 
 ### 🚀 About Me
 I’m a **full-stack web developer** with a passion for building **robust**, **scalable**, and **high-performance** web applications. My expertise spans front-end and back-end technologies, with a keen focus on user experience, seamless performance, and a bit of AI experimentation.
 
-- **💼 Currently working on**: A marketing content AI platform using NestJS ([WordJet.ai](#)).  
+- **💼 Currently working on**: An AI-driven content creation platform designed to streamline and enhance content production for marketers and agencies ([WordJet.ai](#)).  
 - **🌱 Currently learning**: Machine learning and training AI models.  
 - **💬 Ask me about**: Anything! I love discussing new tech.  
 - **⚡ Fun fact**: I often solve coding problems in my dreams—my wife says I talk to myself even while awake!  
