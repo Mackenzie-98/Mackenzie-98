@@ -13,7 +13,7 @@
 
 
 ### 🚀 About Me
-I’m a **full-stack web developer** with a passion for building **robust**, **scalable**, and **high-performance** web applications. My expertise spans front-end and back-end technologies, with a keen focus on user experience, seamless performance, and a bit of AI experimentation.
+I’m a **full-stack web developer** with a passion for building **robust**, **scalable**, and **high-performance** web/mobile applications. My expertise spans front-end and back-end technologies, with a keen focus on user experience, seamless performance, and a bit of AI experimentation.
 
 - **💼 Currently working on**: An AI-driven content creation platform designed to streamline and enhance content production for marketers and agencies ([WordJet.ai](#)).  
 - **🌱 Currently learning**: Machine learning and training AI models.  
