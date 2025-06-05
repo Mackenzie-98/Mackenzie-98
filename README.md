@@ -13,13 +13,12 @@
 
 
 ### 🚀 About Me
-I’m a **full-stack web developer** with a passion for building **robust**, **scalable**, and **high-performance** web/mobile applications. My expertise spans front-end and back-end technologies, with a keen focus on user experience, seamless performance, and a bit of AI experimentation.
+I’m a web/mobile developer; passionate about finding strategies to help others grow and sharing my knowledge to achieve results. Over the past 2–3 years, I’ve also launched my own projects and worked as a freelancer for various businesses.
 
 - **💼 Currently working on**: An AI-driven content creation platform designed to streamline and enhance content production for marketers and agencies ([WordJet.ai](#)).  
-- **🌱 Currently learning**: Machine learning and training AI models.  
-- **💬 Ask me about**: Anything! I love discussing new tech.  
-- **⚡ Fun fact**: I often solve coding problems in my dreams—my wife says I talk to myself even while awake!  
-
+- **🌱 Currently learning**: Agentic AI, Automation Workflows, LLM’s Models.  
+- **💬 Ask me about**: Anything tech, grow or bussines related!
+- **⚡ Fun fact**: Are you looking for the best? Or for someone who solves your problem in the best way? 
 
 
 ### Skills
