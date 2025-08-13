@@ -15,10 +15,10 @@
 ### 🚀 About Me
 I’m a web/mobile developer; passionate about finding strategies to help others grow and sharing my knowledge to achieve results. Over the past 2–3 years, I’ve also launched my own projects and worked as a freelancer for various businesses.
 
-- **💼 Currently working on**: An AI-driven content creation platform designed to streamline and enhance content production for marketers and agencies ([WordJet.ai](#)).  
-- **🌱 Currently learning**: Agentic AI, Automation Workflows, LLM’s Models.  
-- **💬 Ask me about**: Anything tech, grow or bussines related!
-- **⚡ Fun fact**: Are you looking for the best? Or for someone who solves your problem in the best way? 
+- **💼 Currently working on**: An Startup that helps small and medium-sized businesses handle customer interactions on WhatsApp—offering 24/7 support, sales conversion, and building customer loyalty. ([Tarsix.ai](#)).  
+- **🌱 Currently learning**: Agentic AI, Automation Workflows, n8n.  
+- **💬 Ask me about**: Existential questions
+- **⚡ Fun fact**: Sometimes we overlook places that give us valuable experiences. Later, after we reach our goals, we look back and realize we ended up alone in the process.
 
 
 ### Skills
