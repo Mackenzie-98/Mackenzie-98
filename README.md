@@ -13,9 +13,9 @@
 
 
 ### 🚀 About Me
-I’m a web/mobile developer; passionate about finding strategies to help others grow and sharing my knowledge to achieve results. Over the past 2–3 years, I’ve also launched my own projects and worked as a freelancer for various businesses.
+I’m an Sr Mobile Developer. I love craft systems that keep improving. I’ve also launched my own projects and worked as a freelancer.
 
-- **💼 Currently working on**: An Startup that helps small and medium-sized businesses handle customer interactions on WhatsApp, offering 24/7 support, sales conversion, and building customer loyalty. ([Tarsix.ai](#)).  
+- **💼 Currently working on**: Startup that helps businesses handle customer interactions on WhatsApp. ([Tarsix.ai](#)).  
 - **🌱 Currently learning**: Agentic AI, Automation Workflows, n8n.  
 - **💬 Ask me about**: Existential questions
 - **⚡ Fun fact**: Sometimes we overlook places that give us valuable experiences. Later, after we reach our goals, we look back and realize we ended up alone in the process.
