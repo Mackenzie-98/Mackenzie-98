@@ -17,8 +17,8 @@ I’m an Sr Mobile Developer. I love craft systems that keep improving. I’ve a
 
 - **💼 Currently working on**: FintechApp.  
 - **🌱 Currently learning**: Agentic AI, Automation Workflows, n8n.  
-- **💬 Ask me about**: Existential questions
-- **⚡ Fun fact**: Sometimes we overlook places that give us valuable experiences. Later, after we reach our goals, we look back and realize we ended up alone in the process.
+- **💬 Ask me about**: The Bible
+- **⚡ Fun fact**: There are not fun facts, just hard work!
 
 
 ### Skills
